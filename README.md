@@ -128,8 +128,8 @@ For detailed architecture documentation, see [ARCHITECTURE.md](./ARCHITECTURE.md
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nizarhussain2024/HealthSync---AI-Health-Platform.git
-   cd HealthSync---AI-Health-Platform
+   git clone https://github.com/nizarhussain2024/HealthSync-AI-Health-Platform.git
+   cd HealthSync-AI-Health-Platform
    ```
 
 2. **Install frontend dependencies**
@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Nizar Hussain**
 
 - GitHub: [@nizarhussain2024](https://github.com/nizarhussain2024)
-- Project Link: [https://github.com/nizarhussain2024/HealthSync---AI-Health-Platform](https://github.com/nizarhussain2024/HealthSync---AI-Health-Platform)
+- Project Link: [https://github.com/nizarhussain2024/HealthSync-AI-Health-Platform](https://github.com/nizarhussain2024/HealthSync-AI-Health-Platform)
 
 ## ⚠️ Disclaimer
 
