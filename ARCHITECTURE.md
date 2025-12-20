@@ -300,3 +300,12 @@ HealthSync is an AI-powered healthcare platform that leverages Large Language Mo
 - **Multi-language Support**: Internationalization
 - **Provider Portal**: Enhanced provider tools
 
+
+## AI Components
+
+### NLP Processing
+- Text tokenization and normalization
+- Similarity calculation algorithms
+- Context-aware processing
+
+*Updated: 2025-12-20*

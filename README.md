@@ -312,3 +312,12 @@ This platform is for demonstration purposes only. It is not intended to replace 
 
 </div>
 
+
+## AI/NLP Capabilities
+
+This project includes AI and NLP utilities for:
+- Text processing and tokenization
+- Similarity calculation
+- Natural language understanding
+
+*Last updated: 2025-12-20*
